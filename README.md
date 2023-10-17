@@ -33,5 +33,3 @@ Para começar com este projeto, siga estas etapas:
    ```bash
    cd todo-list-api
    ./mvnw spring-boot:run
-
-
